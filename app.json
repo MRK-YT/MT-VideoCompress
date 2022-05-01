@@ -11,7 +11,7 @@
   ],
   "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
   "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-  "repository": "https://github.com/MRK-YT/MT-VideoCompress",
+  "repository": "https://github.com/kapil66696/MT-VideoCompress"
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
